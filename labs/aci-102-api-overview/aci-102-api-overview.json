@@ -1,7 +1,7 @@
 {
   "labId": "aci-102-api-overview",
   "title": "ACI 102 - API Overview",
-  "slug": "Make API calls with either a JSON or XML payload, and get some understanding of the API Object Model."
+  "slug": "Make API calls with either a JSON or XML payload, and get some understanding of the API Object Model.",
   "time": 15,
   "tags": [
     {"title": "Data Center"},
